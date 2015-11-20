@@ -1,0 +1,35 @@
+# loginFeatures
+  * studentLogin
+    A student is able to login through STIL.
+  * lectureLogin
+    A lecturer is able to login through LUCAT.
+  * adminLogin
+    An admin is able to login through a backdoor.
+
+# videoFeatures
+  * playVideo
+    Students are able to watch videos.
+  * commentFunction
+    Students are able to comment videos.
+
+# liveStreamFeatures
+  * liveVideo
+    Students are able to watch a video through live streaming.
+  * chattFunction
+    Students are able to chatt with other students watching the same stream.
+  * questionFunction
+    Students are able to ask questions to the lecturer.
+
+# ratingFeatures
+  * rateFunction
+    Students are able to rate videos.
+  * displayRating
+    Students are able to see the rating of videos.
+
+# commentFeatures
+  * writeComments
+    Students are able to write comments about videos.
+  * readComments
+    Students are able to read comments about videos.
+
+
